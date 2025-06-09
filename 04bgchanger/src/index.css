@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Customize tailwind */
+
+@theme {
+  --color-olive-500: #808000;
+}
